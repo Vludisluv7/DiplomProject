@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/common-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/common-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/dispatcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/mail-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/node/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/rest-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BabushkinPogreb-575129f8e508ab5c2a56ab522ad687c4c433623b/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

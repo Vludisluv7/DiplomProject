@@ -1,0 +1,21 @@
+server:
+  port: 8084
+  ssl:
+    enabled: false
+
+bot:
+  name: safe_guardiant_bot
+  token: 7421369713:AAGD_SwbOmV_rduaEGbWLGh0cGY3gawUqac
+  uri: https://4be9-95-24-154-181.ngrok-free.app
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: userok
+    password: p@ssw0rd
+    queues:
+      text-message-update: text_message_update
+      doc-message-update: doc_message_update
+      photo-message-update: photo_message_update
+      answer-message: answer_message
